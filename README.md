@@ -1,11 +1,18 @@
 # Project_Spectrum
 
 Members:
-Pierre S. Linzey 
-Mohammed Hammoud 
-Nikitha Biju 
-Shaurya Kandhari 
-Ata Nader 
+<br>
+Pierre S. Linzey
+<br>
+Mohammed Hammoud
+<br>
+Nikitha Biju
+<br>
+Shaurya Kandhari
+<br>
+Ata Nader
+<br>
 Project for spectrum educational AI platform...
-
+<br>
+<br>
 The repository will contain information or images regarding the tools used as a form of documentation.
