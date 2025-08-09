@@ -1,27 +1,20 @@
-# Project_Spectrum
+# 📚 Spectrum Educational AI Platform
 
-Members:
-<br>
-Pierre S. Linzey
-<br>
-Mohammed Hammoud
-<br>
-Nikitha Biju
-<br>
-Shaurya Kandhari
-<br>
-Ata Nader
-<br>
-Project for spectrum educational AI platform...
-<br>
-<br>
-The repository will contain information or images regarding the tools used as a form of documentation.
-<br>
-<br>
-Tools:
-<br>
-<br>
-Bubble.io:
-<br> 
-A no code web app builder that uses AI to generate a website with both front-end and back-end logic.
-<br>
+## 👥 Team Members
+- **Pierre S. Linzey**
+- **Mohammed Hammoud**
+- **Nikitha Biju**
+- **Shaurya Kandhari**
+- **Ata Nader**
+
+---
+
+## 📖 Project Overview
+This repository contains documentation, images, and resources related to the tools and technologies used in building the **Spectrum Educational AI Platform**.
+
+---
+
+## 🛠 Tools
+
+### **Bubble.io**
+> A no-code web app builder that enables you to design and develop fully functional applications — including both **front-end** and **back-end** logic — without writing traditional code. Bubble also offers AI-assisted features to accelerate development.
